@@ -42,5 +42,5 @@ The dashboard evaluates portfolio performance using return, risk, and risk-adjus
 - Data visualization tools (charts, formatting)
 
 ## Dashboard Preview
-
+![Dashboard Preview](dashboard_preview.png)
 
