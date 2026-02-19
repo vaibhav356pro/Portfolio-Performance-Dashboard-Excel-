@@ -1,4 +1,4 @@
-# Portfolio Performance Dashboard (Excel)
+# Portfolio Performance Dashboard
 
 ## Overview
 This project presents a dynamic portfolio performance dashboard built in Microsoft Excel, covering the period:
